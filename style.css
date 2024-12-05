@@ -1,0 +1,110 @@
+*{
+    margin: 0%;
+}
+header{
+    background-color: rgb(55 59 68);
+      display: flex;
+       justify-content: space-between;
+}
+.nav:hover{
+    background-color: hsl(6.84deg 100% 69.02%);
+    
+}
+.nav{
+    margin-left: 25px;
+     padding: 15px; 
+     padding-top: 20px;
+}
+.a{
+    text-decoration: none;
+    color: aliceblue; 
+    font-weight: bolder;
+}
+.sechion2{
+    background-color: hsl(6.84deg 100% 69.02%);
+     display: flex; 
+     color: aliceblue; 
+}
+.buttonconact{
+    padding: 2%;
+    background-color: rgb(51, 55, 63);
+    color: aliceblue;
+    border-radius: 2px; 
+    margin-top: 7%;
+    margin-bottom: 15%;
+}
+.section2about{
+    color: aliceblue; 
+    background-color:hsl(6.84deg 100% 69.02%);
+     padding: 1%;
+}
+.sechion3about{
+background-color: rgb(243 243 243);
+color: rgb(82 81 81);
+text-align: center;
+padding: 2%;
+font-weight: bolder;
+
+}
+footer{
+    display: flex;
+     background-color: rgb(51, 55, 63);
+      padding: 1%;
+       padding-left: 40%; 
+       padding-right: 40%;
+       justify-content: space-around;
+}
+.icon {
+
+    font-size: 35px;
+    color: rgb(0, 0, 0);
+    background-color: aliceblue;
+    border-radius: 100px;
+    padding: 15%;
+   
+}
+.card{
+    margin-top: 4%;
+    border: 1px solid ;
+   border-color: rgb(223, 217, 217);
+    width:20% ;
+    text-align: center;
+    height: 60%;
+}
+.card button{
+    margin-bottom: 0%;
+    width: 100%;
+    padding: 5%;
+}
+.card p{
+    margin-top: 6%;
+    margin-bottom: 6%;
+}
+.card h1{
+    padding: 4%;
+    color:  hsl(6.84deg 100% 69.02%); 
+    background-color: rgb(243 243 243);
+}
+.card h2{
+    
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+.blog1 p{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.ico{
+    color: rgb(211, 55, 55);
+    margin-right: 10%;
+}
+.icondiv p{
+    margin-top: 5%;
+    margin-bottom:5%;
+}
+.icondiv h2{
+    margin-bottom: 7%;
+}
+.icondiv{
+    margin-bottom: 10%;
+}
